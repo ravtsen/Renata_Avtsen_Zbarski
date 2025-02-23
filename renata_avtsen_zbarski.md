@@ -1,2 +1,8 @@
-# Renata_Avtsen_Zbarski
-Renata Avtsen Zbarski profile overview
+## Hey 👋, This is Renata Avtsen Zbarski
+[![Gmail Badge](https://img.shields.io/badge/-r.avtsen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:r.avtsen@gmail.com)](mailto:r.avtsen@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-renata-avtsen-zbarski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-avtsen-zbarski/)](https://www.linkedin.com/in/renata-avtsen-zbarski/) [![Github Badge](https://img.shields.io/badge/-ravtsen-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ravtsen/)](https://www.github.com/ravtsen/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/ravtsen/Renata_Avtsen_Zbarski/blob/main/renata_avtsen_zbarski.md/)](https://github.com/ravtsen/Renata_Avtsen_Zbarski/blob/main/renata_avtsen_zbarski.md/) <p align='left'>Data Analyst with a strong analytical mindset and a problem-solving approach. Experienced in working under pressure, setting priorities, and delivering insights that optimize operations. Skilled in data-driven decision-making, process optimization, and transforming complex data into actionable strategies. With 7 years experience in facilities management, budget management and planning.</p><p align='left'> You can view my resume <a href='https://github.com/ravtsen/Renata_Avtsen_Zbarski/blob/main/CV.md ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ravtsen alt=ravtsen /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ravtsen&show_icons=true&include_all_commits=true)](https://github.com/ravtsen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravtsen&layout=compact)](https://github.com/ravtsen/github-readme-stats)
